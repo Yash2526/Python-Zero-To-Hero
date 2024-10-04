@@ -1,3 +1,3 @@
 
-# "Python-Zero-to-Hero"
+# "Python-Zero-To-Hero"
 Author - Yash Bharitkar.
