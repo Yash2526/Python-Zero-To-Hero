@@ -1,1 +1,3 @@
-Welcome to the "Python-Zero-to-Hero" series!
+
+# "Python-Zero-to-Hero"
+Author - Yash Bharitkar.
