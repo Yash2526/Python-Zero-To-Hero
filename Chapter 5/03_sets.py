@@ -1,5 +1,4 @@
 
-
 z = {10,4,6,8,9,2,3,7,7,4,6,9} # it is called a set. Set me element repeat nahi ho sakate.
 
 print(z)
