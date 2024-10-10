@@ -1,5 +1,4 @@
 
-
 marks = {
     #This are all items
     "Harry":100,
@@ -20,13 +19,10 @@ print(marks.values())       # It gives you values ("100,99,85, etc..")
 
 marks.update({0:"Athrva","Sahil":60}) # it will do changes if key value is exiest already else it will add it.
 
-
 print(marks.get("Harry"))
 print(marks["Harry"])
 
-
 print(marks.get("Harry2"))       # It will print None.
 print(marks["Harry2"])           # Returns an Error.
-
 
 print(marks)  

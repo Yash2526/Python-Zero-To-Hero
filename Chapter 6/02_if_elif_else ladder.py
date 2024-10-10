@@ -1,16 +1,11 @@
- 
-
 # if elif else ladder
 
-
 a =int(input("Enter your age: "))
-
 
 # This is 1st statement of 'if'....
 if(a%2==0):
     print("a is even.")
 # End of statment 1st...
-
 
 # This is an 2nd statement of 'if'....
 

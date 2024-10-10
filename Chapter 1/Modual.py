@@ -10,6 +10,5 @@ print (joke)
 
 # So this is my second Code 
 # Explening and using the modual pyjokes
-# This is crezy boss.
 
 
